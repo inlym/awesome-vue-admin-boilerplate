@@ -7,7 +7,8 @@
       "Bash(npx tailwindcss init:*)",
       "Bash(pnpm exec tailwindcss:*)",
       "Bash(pnpm dev:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(pnpm type-check:*)"
     ],
     "deny": [],
     "ask": []
