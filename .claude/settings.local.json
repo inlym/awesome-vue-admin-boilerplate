@@ -8,7 +8,8 @@
       "Bash(pnpm exec tailwindcss:*)",
       "Bash(pnpm dev:*)",
       "Bash(mkdir:*)",
-      "Bash(pnpm type-check:*)"
+      "Bash(pnpm type-check:*)",
+      "Bash(pnpm lint:*)"
     ],
     "deny": [],
     "ask": []
